@@ -1,4 +1,3 @@
-```markdown
 # 🎴 Pokémon Card Team Generator
 
 Welcome to the **Pokémon Card Team Generator** — a fun and interactive web app that generates a random team of Pokémon cards with detailed stats, type badges, animations, and a card-flip feature!
