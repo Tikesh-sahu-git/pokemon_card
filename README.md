@@ -17,7 +17,6 @@ Welcome to the **Pokémon Card Team Generator** — a fun and interactive web ap
 ## 📸 Preview
 
 ![App Screenshot](pokemon_card.png)  
-> *(Add a screenshot of the project UI once ready)*
 
 ## 🚀 How It Works
 
