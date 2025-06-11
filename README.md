@@ -1,8 +1,3 @@
-Here's a complete `README.md` file you can use for your Pokémon Card Team Generator project deployed at:
-👉 [https://tikesh-sahu-git.github.io/pokemon\_card/](https://tikesh-sahu-git.github.io/pokemon_card/)
-
----
-
 ```markdown
 # 🎴 Pokémon Card Team Generator
 
