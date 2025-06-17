@@ -15,7 +15,7 @@ Welcome to the **Pokémon Card Team Generator** — a fun and interactive web ap
 - 📱 Fully responsive layout
 
 ## 📸 Preview
-
+ 
 ![App Screenshot](pokemon_card.png)  
 
 ## 🚀 How It Works
