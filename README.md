@@ -9,7 +9,7 @@ Welcome to the **Pokémon Card Team Generator** — a fun and interactive web ap
 - 🔁 Generate a new random team of 6 Pokémon
 - 🧠 Pokémon data powered by [PokeAPI](https://pokeapi.co/)
 - 🎴 Flip cards to reveal stats, moves, and abilities
-- 🌈 Type badges with unique colors
+- 🌈 Type badges with unique colors 
 - ⚡ HP-based styling and attack stat animations
 - 🎨 Smooth loading and transition animations
 - 📱 Fully responsive layout
